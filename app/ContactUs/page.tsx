@@ -20,10 +20,10 @@ const ContactUs = () => {
           <p className="text-sm text-gray-600 mb-2">We want to make buying your favourite Nike shoes and gear online fast and easy, and we accept the following payment options:</p>
           <ul className="list-disc pl-5 text-sm text-gray-600 mb-2">
             <li>Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro</li>
-            <li>If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.</li>
+            <li>If you enter your PAN information at checkout, you will be able to pay for your order with PayTM or a local credit or debit card.</li>
             <li>Nike Members can store multiple debit or credit cards in their profile for faster checkout.</li>
           </ul>
-          <p className="text-sm text-gray-600">If you're not already a Member, join us today.</p>
+          <p className="text-sm text-gray-600">If you are not already a Member, join us today.</p>
         </div>
 
         <div>
@@ -38,7 +38,7 @@ const ContactUs = () => {
           </div>
           <div className="flex items-start space-x-4 mb-4">
             <FaEnvelope className="text-blue-500 text-xl" />
-            <p className="text-sm text-gray-600">We'll reply within 1 business day</p>
+            <p className="text-sm text-gray-600">We will reply within 1 business day</p>
           </div>
           <div className="flex items-start space-x-4">
             <FaMapMarkerAlt className="text-blue-500 text-xl" />

@@ -112,7 +112,7 @@ const JoinUs = () => {
               </div>
             </div>
             <p className="text-[#8D8D8D] mb-4">
-              By creating an account, you agree to Nike's <a href="#" className="underline">Privacy Policy</a> and <a href="#" className="underline">Terms of Use</a>.
+              By creating an account, you agree to Nike s <a href="#" className="underline">Privacy Policy</a> and <a href="#" className="underline">Terms of Use</a>.
             </p>
             <div className="mt-6">
               <button

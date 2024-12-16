@@ -93,7 +93,7 @@ function Hero() {
 
       {/* Don't Miss Section */}
       <div className="px-4 sm:px-8 lg:px-16 mt-12">
-        <h1 className="text-xl font-bold">Don't Miss</h1>
+        <h1 className="text-xl font-bold">Dont Miss</h1>
         <Image
           src="/Images/don't-miss.png"
           alt="don't miss section image"
