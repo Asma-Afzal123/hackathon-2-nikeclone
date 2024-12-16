@@ -18,7 +18,7 @@ export default function Essentials() {
             height={500}
           />
           <button className="absolute bottom-4 left-4 bg-white text-black px-4 py-2 rounded-full text-sm font-medium group-hover:bg-gray-800 group-hover:text-white transition">
-            Men's
+            Mens
           </button>
         </div>
         {/* Women's Section */}
@@ -31,7 +31,7 @@ export default function Essentials() {
             height={500}
           />
           <button className="absolute bottom-4 left-4 bg-white text-black px-4 py-2 rounded-full text-sm font-medium group-hover:bg-gray-800 group-hover:text-white transition">
-            Women's
+            Womens
           </button>
         </div>
         {/* Kids' Section */}
@@ -44,7 +44,7 @@ export default function Essentials() {
             height={500}
           />
           <button className="absolute bottom-4 left-4 bg-white text-black px-4 py-2 rounded-full text-sm font-medium group-hover:bg-gray-800 group-hover:text-white transition">
-            Kids'
+            Kids
           </button>
         </div>
       </div>
@@ -79,12 +79,12 @@ export default function Essentials() {
           </ul>
         </div>
         <div>
-          <h3 className="font-bold mb-2">Kids'</h3>
+          <h3 className="font-bold mb-2">Kids</h3>
           <ul>
             <li>Infant & Toddler Shoes</li>
-            <li>Kids' Shoes</li>
-            <li>Kids' Jordan Shoes</li>
-            <li>Kids' Basketball Shoes</li>
+            <li>Kids Shoes</li>
+            <li>Kids Jordan Shoes</li>
+            <li>Kids Basketball Shoes</li>
           </ul>
         </div>
       </div>
