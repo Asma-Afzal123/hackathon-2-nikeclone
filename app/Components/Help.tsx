@@ -19,17 +19,17 @@ export default function Help() {
             </p>
             
             <p className="text-gray-700">
-              Visa, Mastercard, Diners Club, Discover, American Express, Visa Electron, Maestro
+              Visa, Mastercard, Diners Club, Discover American Express Visa Electron Maestro
             </p>
             
             <p className="text-gray-700">
-              If you enter your PAN information at checkout, you'll be able to pay for your order with PayTM or a local credit or debit card.
+              If you enter your PAN information at checkout you ll be able to pay for your order with PayTM or a local credit or debit card.
             </p>
             
             <p className="text-gray-700">Apple Pay</p>
             
             <p className="text-gray-700">
-              <span className="font-medium">Nike Members</span> can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member,{' '}
+              <span className="font-medium">Nike Members</span> can store multiple debit or credit cards in their profile for faster checkout. If you are not already a Member,{' '}
               <a href="#" className="underline">
                 join us
               </a>{' '}
@@ -62,7 +62,7 @@ export default function Help() {
                 <div>
                   <h3 className="font-medium mb-2">Can I pay for my order with multiple methods?</h3>
                   <p className="text-gray-700">
-                    No, payment for Nike orders can't be split between multiple payment methods.
+                    No, payment for Nike orders cant be split between multiple payment methods.
                   </p>
                 </div>
 
@@ -74,7 +74,7 @@ export default function Help() {
                 </div>
 
                 <div>
-                  <h3 className="font-medium mb-2">Why don't I see Apple Pay as an option?</h3>
+                  <h3 className="font-medium mb-2">Why dont I see Apple Pay as an option?</h3>
                   <p className="text-gray-700">
                     To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.
                   </p>
@@ -142,7 +142,7 @@ export default function Help() {
               <Mail className="w-6 h-6" />
               <div>
                 <p className="text-sm text-gray-600">
-                  We'll reply within
+                  We ll reply within
                   <br />five business days
                 </p>
               </div>

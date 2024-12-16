@@ -10,7 +10,7 @@ const ProductCard = () => {
         {/* Image Section */}
         <div className="flex-shrink-0 w-full md:w-[40%]">
           <img
-            src="/Images/pcard3.png" // Replace with your image path
+            src="/Images/pcard3.png" //
             alt="Nike Air Force 1"
             className="w-full h-auto max-w-sm mx-auto" // Ensure image is responsive
           />
@@ -21,10 +21,10 @@ const ProductCard = () => {
           <h1 className="text-2xl font-bold mb-4">Nike Air Force 1 PLT.AF.ORM</h1>
           <p className="text-gray-700 text-sm leading-6 mb-4">
             Turn style on its head with this crafted take on the Air Jordan 1 Mid.
-            Its "inside out"-inspired construction, including unique layering and
+            Its inside out inspired construction including unique layering and
             exposed foam accents, ups the ante on this timeless Jordan Brand
             silhouette. Details like the deco stitching on the Swoosh add coveted
-            appeal, while the unexpected shading, rich mixture of materials and
+          appeal while the unexpected shading, rich mixture of materials and
             aged midsole aesthetic give this release an artisan finish.
           </p>
           <p className="text-gray-700 text-sm mb-2">
