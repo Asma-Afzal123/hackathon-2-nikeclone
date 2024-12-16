@@ -76,7 +76,7 @@ export default function Help() {
                 <div>
                   <h3 className="font-medium mb-2">Why dont I see Apple Pay as an option?</h3>
                   <p className="text-gray-700">
-                    To see Apple Pay as an option in the Nike App or on Nike.com, you'll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you'll need to use Safari to use Apple Pay on Nike.com.
+                    To see Apple Pay as an option in the Nike App or on Nike.com, you will need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you will need to use Safari to use Apple Pay on Nike.com.
                   </p>
                 </div>
               </div>
@@ -98,7 +98,7 @@ export default function Help() {
               <h3 className="text-sm text-gray-500 mb-2">RELATED</h3>
               <div className="space-y-2">
                 <a href="#" className="block text-sm underline">
-                  WHAT ARE NIKE'S DELIVERY OPTIONS?
+                  WHAT ARE NIKE S DELIVERY OPTIONS?
                 </a>
                 <a href="#" className="block text-sm underline">
                   HOW DO I GET FREE DELIVERY ON NIKE ORDERS?
